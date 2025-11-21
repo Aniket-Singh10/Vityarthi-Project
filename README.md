@@ -1,5 +1,5 @@
 # Vityarthi-Project
-i have made a project on ATM using python and its libraries
+I have made a project on ATM using python and its libraries
 A beginner-friendly, secure, and lightweight console-based ATM system built using Python.
 Supports account creation, secure PIN login, deposits, withdrawals, fund transfers, transaction history, and PIN updates — all stored safely in a local JSON database.
 
