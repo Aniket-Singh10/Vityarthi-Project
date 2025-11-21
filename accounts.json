@@ -1,0 +1,17 @@
+{
+  "accounts": {
+    "1DC2825951": {
+      "name": "ansh",
+      "pin": "59a6df61beab549348e244f74caed3cebd5fdc778f56da1c0c36dbadaf4bcf92",
+      "balance": 455.0,
+      "created": "2025-11-22 02:34:23",
+      "history": [
+        {
+          "time": "2025-11-22 02:34:51",
+          "type": "Deposit",
+          "amount": 455.0
+        }
+      ]
+    }
+  }
+}
